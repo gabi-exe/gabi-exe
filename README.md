@@ -1,4 +1,3 @@
-<img width="2172" height="724" alt="ChatGPT Image 18 de set  de 2026, 15_09_46" src="https://github.com/user-attachments/assets/acff9065-82f8-4000-a1ef-d8eb0fe69935" />
 # Olá, eu sou a Gabriele Fernandes! 👋 
 
 <p align="left">
@@ -31,7 +30,7 @@
   <p>Interface moderna desenvolvida para uma loja de joias, focando em responsividade e atenção a cada detalhe visual.</p>
 
   <a href="https://github.com/gabi-exe/Lux-Joalheria">
-    <img src="https://raw.githubusercontent.com/gabi-exe/Lux-Joalheria/main/assets/banner-lux.png" alt="Lux Joalheria Banner" width="100%" />
+    <img src="https://private-user-images.githubusercontent.com/315165765/654843687-acff9065-82f8-4000-a1ef-d8eb0fe69935.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3Nzc5OTk5OTh9.SIsImtleTUiLCJleHAiOjE3Nzc5OTk5OTh9" alt="Lux Joalheria Banner" width="100%" />
   </a>
 
   <br><br>
@@ -52,4 +51,4 @@
   <a href="https://www.instagram.com/gabrielefernandes" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-</div>
+</div>![Uploading ChatGPT Image 18 de set. de 2026, 15_09_46.png…]()
