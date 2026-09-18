@@ -28,7 +28,7 @@
 <div align="center">
 <p align="center">
  <h2><font face="Georgia, Serif" color="#FFFFFF"> ✨<i>LUX JOALHERIA</i></font></h2>
-</p>  <p>Interface moderna desenvolvida para uma loja de joias, focando em responsividade e atenção a cada detalhe visual.</p>
+<p align="center"><i>"Onde a elegância atemporal encontra o design moderno. Interface desenhada para destacar a pureza e o brilho de cada detalhe."</i></p>
 <a href="https://github.com/gabi-exe/Lux-Joalheria">
   <img src="https://github.com/user-attachments/assets/5fa1ed73-bd9e-415f-a70a-b81847b6ba00" alt="Lux Joalheria Banner" width="100%" />
 </a>
