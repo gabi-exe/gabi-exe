@@ -1,7 +1,7 @@
 # Olá, eu sou a Gabriele Fernandes! 👋 
 
 <p align="left">
-  <strong>Front-End Developer</strong> apaixonada por transformar ideias em interfaces funcionais, elegantes e focadas na experiência do usuaŕio ✨
+  <strong>Front-End Developer</strong> apaixonada por transformar ideias em interfaces funcionais, elegantes e focadas na experiência do usuário ✨
 </p>
 
 <p align="left">
