@@ -1,3 +1,4 @@
+<img width="2172" height="724" alt="ChatGPT Image 18 de set  de 2026, 15_09_46" src="https://github.com/user-attachments/assets/acff9065-82f8-4000-a1ef-d8eb0fe69935" />
 # Olá, eu sou a Gabriele Fernandes! 👋 
 
 <p align="left">
