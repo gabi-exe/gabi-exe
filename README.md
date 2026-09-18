@@ -31,7 +31,8 @@
 
   <!-- Substitui o LINK_DA_SUA_IMAGEM pela URL da imagem/banner do teu projeto -->
   <a href="https://github.com/gabi-exe/Lux-Joalheria">
-    <img src="LINK_DA_SUA_IMAGEM" alt="Demonstração Lux Joalheria" width="100%" />
+    <img src="<img width="2172" height="724" alt="ChatGPT Image 18 de set  de 2026, 15_09_46" src="https://github.com/user-attachments/assets/9b96624c-494f-4b3d-ba70-1a8bb7c94a12" />
+" alt="Demonstração Lux Joalheria" width="100%" />
   </a>
 
   <br><br>
