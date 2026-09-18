@@ -1,7 +1,7 @@
 # Olá, eu sou a Gabriele Fernandes! 👋 
 
 <p align="left">
-  <strong>Front-End Developer</strong> apaixonada por transformar ideias em interfaces funcionais, elegantes e focadas na experiência do utilizador. ✨
+  <strong>Front-End Developer</strong> apaixonada por transformar ideias em interfaces funcionais, elegantes e focadas na experiência do usuaŕio ✨
 </p>
 
 <p align="left">
@@ -28,16 +28,10 @@
 <div align="center">
   <h2>💎 Lux Joalheria</h2>
   <p>Interface moderna desenvolvida para uma loja de joias, focando em responsividade e atenção a cada detalhe visual.</p>
+<a href="https://github.com/gabi-exe/Lux-Joalheria">
+  <img src="https://github.com/user-attachments/assets/5fa1ed73-bd9e-415f-a70a-b81847b6ba00" alt="Lux Joalheria Banner" width="100%" />
+</a>
 
-  <a href="https://github.com/gabi-exe/Lux-Joalheria">
-    <img src="https://private-user-images.githubusercontent.com/315165765/654843687-acff9065-82f8-4000-a1ef-d8eb0fe69935.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3Nzc5OTk5OTh9.SIsImtleTUiLCJleHAiOjE3Nzc5OTk5OTh9" alt="Lux Joalheria Banner" width="100%" />
-  </a>
-
-  <br><br>
-
-  <a href="https://github.com/gabi-exe/Lux-Joalheria">
-    <img src="https://img.shields.io/badge/Ver_Repositório-100000?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
 </div>
 
 ---
@@ -51,4 +45,4 @@
   <a href="https://www.instagram.com/gabrielefernandes" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-</div>![Uploading ChatGPT Image 18 de set. de 2026, 15_09_46.png…]()
+</div>
