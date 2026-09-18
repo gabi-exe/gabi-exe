@@ -29,10 +29,8 @@
   <h2>💎 Lux Joalheria</h2>
   <p>Interface moderna desenvolvida para uma loja de joias, focando em responsividade e atenção a cada detalhe visual.</p>
 
-  <!-- Substitui o LINK_DA_SUA_IMAGEM pela URL da imagem/banner do teu projeto -->
   <a href="https://github.com/gabi-exe/Lux-Joalheria">
-    <img src="<img width="2172" height="724" alt="ChatGPT Image 18 de set  de 2026, 15_09_46" src="https://github.com/user-attachments/assets/9b96624c-494f-4b3d-ba70-1a8bb7c94a12" />
-" alt="Demonstração Lux Joalheria" width="100%" />
+    <img src="https://raw.githubusercontent.com/gabi-exe/Lux-Joalheria/main/assets/banner-lux.png" alt="Lux Joalheria Banner" width="100%" />
   </a>
 
   <br><br>
@@ -40,12 +38,6 @@
   <a href="https://github.com/gabi-exe/Lux-Joalheria">
     <img src="https://img.shields.io/badge/Ver_Repositório-100000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <!-- Se tiveres o site publicado (Vercel/GitHub Pages), coloca o link abaixo: -->
-  <!-- 
-  <a href="LINK_DO_SITE_DEMO">
-    <img src="https://img.shields.io/badge/Ver_Demo_Online-00C7B7?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a> 
-  -->
 </div>
 
 ---
